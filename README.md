@@ -2,11 +2,13 @@
 
 # Microverse Hello World
 
-> First project of second day at Microverse.
+> Hello World project for Microverse portal program. Highlights a greeting to Micorverse as a header. The first program to introduce Github actions and linters to Micronauts
 
 ## Built With
 
 - Markdown
+- HTML
+- CSS
 
 ## Getting Started
 
@@ -14,20 +16,26 @@
 
 To get a local copy up and running follow these simple example steps.
 
+1. Clone the repository or donwload a copy to your computer
+2. Go to the folder in your machine, this will be the root location
+3. For NPM use that folder as your root location
+
 ### Prerequisites
 
 **Git**
-### Setup
+**Node JS (preferably any LTS version)**
 
-**Simply clone the GIT files**
+## Author
 
-## Authors
+👤 **Tinaye Hamufari Tsinakwadi**
 
-👤 **Tinaye Tsinakwadi**
+> Aspiring web developer mainly interested in minimal code. Research interests include Database design and IOT.
 
 - [GitHub](https://github.com/githubhandle)
 - [Twitter](https://twitter.com/twitterhandle)
 - [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+Please feel free to contact me anytime
 
 
 ## 🤝 Contributing
@@ -36,12 +44,12 @@ Contributions, issues, and feature requests are welcome!
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project.
 
 ## Acknowledgments
 
-- Microverse
+- [Microverse](https://bit.ly/MicroverseTN)
 
 ## 📝 License
 
-No license
+This project is MIT licensed
